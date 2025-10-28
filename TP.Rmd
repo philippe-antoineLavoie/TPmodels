@@ -1,0 +1,12 @@
+---
+title: "Travail Pratique"
+author: "Britanie Cauchon (537287571) & Philippe-Antoine Lavoie (537134750)"
+date: "2025-12-20"
+output: 
+    pdf_document:
+            latex_engine: pdflatex
+            highlight: tango
+fontsize: 12pt
+geometry: margin=3cm
+linestretch: 1
+---
